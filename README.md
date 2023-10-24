@@ -43,7 +43,9 @@
 </ul>
 <!--profile visit count-->
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=Zan-40&icon=3&color=1)](https://visitcount.itsvg.in)
+  
+[![](https://visitcount.itsvg.in/api?id=Zan-40&icon=3&color=1)](https://visitcount.itsvg.in)
+  
 </div>
 <!--
 **Zan-40/Zan-40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
