@@ -45,7 +45,8 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=Zan-40&icon=3&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Zan-40&icon=3&color=3
+)](https://visitcount.itsvg.in)
   
 </div>
 <!--
